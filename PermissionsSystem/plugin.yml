@@ -1,0 +1,6 @@
+name: PermissionsSystem
+version: 1.0
+author: mrsaeva
+main: de.mrsaeva.perm.main.Main
+commands:
+   perm:
